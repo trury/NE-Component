@@ -26,7 +26,6 @@
         - [x] PanelContent
 * [x] Link
 * [x] Icon
-* [ ] Upload        上传图片
 * [x] Toast         
 * [x] Alert         
 * [x] DatePicker    日历
